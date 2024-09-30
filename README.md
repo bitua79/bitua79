@@ -18,7 +18,7 @@ I have successfully developed **two industrial applications**, each with a signi
 ### Education
 - **Bachelor's Degree**: Computer Engineering  
   - **University**: Ferdowsi University of Mashhad
-  - **Important Repositories**: [OOP Midterm Project with JavaFx](https://github.com/bitua79/OOP-javafx-midterm-2) & [Computer Vision Exercises](https://github.com/bitua79/computer-vision-exercies)
+  - **Important Repositories**: [OOP Final Project with JavaFx](https://github.com/bitua79/OOP-javafx-final) & [To-do List](https://github.com/bitua79/todo-list-app)
   - **Bachelor's Project**: [Present and Absence Android Application](https://github.com/bitua79/presence-absence-app)
   - **GPA**: 3.55
 
